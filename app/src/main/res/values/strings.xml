@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="counter_format">total:%1$s,detached:%2$s,hide:%3$s</string>
+</resources>
